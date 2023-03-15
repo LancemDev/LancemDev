@@ -1,4 +1,4 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/74910038/225210974-b2b1a635-d735-4103-a0d5-25bd6e7b99c0.png" width="600" height="600"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/74910038/225210974-b2b1a635-d735-4103-a0d5-25bd6e7b99c0.png" width="600" height="500"></p>
 <h1 align="center">Hi 👋, I'm Lance</h1>
 <h3 align="center">Developer, by Grace</h3>
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **munyaolance1@gmail.com**
 
-- ⚡ Fun fact: **I got 0 bitches**
+- ⚡ Fun fact: **I think I'm funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
