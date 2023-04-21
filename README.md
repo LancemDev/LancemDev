@@ -1,4 +1,3 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/74910038/225210974-b2b1a635-d735-4103-a0d5-25bd6e7b99c0.png" width="600" height="500"></p>
 <h1 align="center">Hi 👋, I'm Lance</h1>
 <h3 align="center">Developer, by Grace</h3>
 
