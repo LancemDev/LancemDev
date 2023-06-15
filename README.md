@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/lance_munyao" target="blank"><img src="https://img.shields.io/twitter/follow/lance_munyao?logo=twitter&style=for-the-badge" alt="lance_munyao" /></a> </p>
 
-- 🔭 I’m currently working on **a Flutter secret Project**
+- 🔭 I’m currently working on **Rustlings**
 
-- 🌱 I’m currently learning **Dart, Flutter, Laravel**
+- 🌱 I’m currently learning **Rust, Flutter, Laravel**
 
-- 🤝 I’m looking for help with [Flutter, dart, Flask.py](https://github.com/LancemDev/Groupify.git)
+- 🤝 I’m looking for help with [Flutter, dart]
 
-- 💬 Ask me about **Python, C++, Java, Flask, Bootstrap, C#**
+- 💬 Ask me about **Python, C++, Java, Flask, Bootstrap, C#, php, Laravel**
 
 - 📫 How to reach me **munyaolance1@gmail.com**
 
