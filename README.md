@@ -43,3 +43,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lancemdev&show_icons=true&locale=en" alt="lancemdev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lancemdev&" alt="lancemdev" /></p>
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lance)](https://git.io/streak-stats)
