@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Rustlings**
 
-- 🌱 I’m currently learning **Rust, Flutter, Laravel**
+- 🌱 I’m currently learning **Rust, Flutter, Laravel, Vue,js**
 
 - 🤝 I’m looking for help with [Flutter, dart]
 
