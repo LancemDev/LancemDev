@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with [Flutter, dart]
 
-- 💬 Ask me about **Python, C++, Java, Flask, Bootstrap, C#, php, Laravel**
+- 💬 Ask me about **Python, C++, Java, Flask, Bootstrap, C#, php, Laravel, Tailwindcss, Vite, Livewire**
 
 - 📫 How to reach me **munyaolance1@gmail.com**
 
