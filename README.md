@@ -7,15 +7,13 @@
 
 - 🔭 I’m currently working on **Rustlings**
 
-- 🌱 I’m currently learning **Rust, Flutter, Laravel, Vue,js**
+- 🌱 I’m currently learning **Rust, Flutter, Laravel, Vue,js, Ruby on Rails**
 
-- 🤝 I’m looking for help with [Flutter, dart]
-
-- 💬 Ask me about **Python, C++, Java, Flask, Bootstrap, C#, php, Laravel, Tailwindcss, Vite, Livewire**
+- 💬 Ask me about **Python, C++, Java, Flask, Bootstrap, C#, php, Laravel, Tailwindcss, Vite, Livewire, maryUI, Chatbots**
 
 - 📫 How to reach me **munyaolance1@gmail.com**
 
-- ⚡ Fun fact: **I think I'm funny**
+- ⚡ Fun fact: **I am Batman**
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
