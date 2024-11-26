@@ -43,3 +43,5 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=LancemDev&theme=monokai&hide_border=true)](https://git.io/streak-stats)
+
+[![committers.top badge](https://user-badge.committers.top/kenya/LancemDev.svg)](https://user-badge.committers.top/kenya/LancemDev)
