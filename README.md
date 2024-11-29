@@ -5,6 +5,8 @@
 
 [![committers.top badge](https://user-badge.committers.top/kenya/LancemDev.svg)](https://user-badge.committers.top/kenya/LancemDev)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LancemDev)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/lance_munyao?logo=twitter&style=for-the-badge)](https://twitter.com/lance_munyao)
 
 - 🔭 I’m currently solving real-world problems with **automation scripts** (and loving every minute of it)
