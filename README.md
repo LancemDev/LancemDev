@@ -5,7 +5,6 @@
 
 [![committers.top badge](https://user-badge.committers.top/kenya/LancemDev.svg)](https://user-badge.committers.top/kenya/LancemDev)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LancemDev)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/lance_munyao?logo=twitter&style=for-the-badge)](https://twitter.com/lance_munyao)
 
@@ -40,6 +39,8 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LancemDev)](https://github.com/anuraghazra/github-readme-stats)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
