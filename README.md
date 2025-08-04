@@ -12,7 +12,7 @@
 - 🌱 Constantly leveling up by diving into **Rust, Kotlin, Ruby on Rails**
 - 💬 Let’s talk about **Python, C++, Java, Flask, Bootstrap, C#, PHP, Laravel, TailwindCSS, Vite, Livewire, maryUI, Chatbots**, or anything else that sparks your curiosity
 - 📫 You can always reach me at **munyaolance1@gmail.com**
-- ⚡ Fun fact: **I may not wear a cape, but yes, I’m Batman**
+- ⚡ Fun fact: **I think I'm very funny**
 
 ### Let's Connect:
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/lancemdev)
