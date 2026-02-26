@@ -3,8 +3,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=lancemdev&label=Profile%20views&color=0e75b6&style=flat)
 
-[![committers.top badge](https://user-badge.committers.top/kenya/LancemDev.svg)](https://user-badge.committers.top/kenya/LancemDev)
-
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/lance_munyao?logo=twitter&style=for-the-badge)](https://twitter.com/lance_munyao)
 
