@@ -6,7 +6,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/lance_munyao?logo=twitter&style=for-the-badge)](https://twitter.com/lance_munyao)
 
-- 🔭 I’m currently solving real-world problems with **automation scripts** (and loving every minute of it)
+- 🔭 I’m currently solving real-world problems with **automation scripts** (loving every minute of it)
 - 🌱 Constantly leveling up by diving into **Rust, Kotlin, Ruby on Rails**
 - 💬 Let’s talk about **Python, C++, Java, Flask, Bootstrap, C#, PHP, Laravel, TailwindCSS, Vite, Livewire, maryUI, Chatbots**, or anything else that sparks your curiosity
 - 📫 You can always reach me at **munyaolance1@gmail.com**
